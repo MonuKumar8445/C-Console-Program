@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\bin\Debug\netcoreapp3.1\GenericArrayAndStringProgram.exe
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\bin\Debug\netcoreapp3.1\GenericArrayAndStringProgram.deps.json
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\bin\Debug\netcoreapp3.1\GenericArrayAndStringProgram.runtimeconfig.json
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\bin\Debug\netcoreapp3.1\GenericArrayAndStringProgram.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\bin\Debug\netcoreapp3.1\GenericArrayAndStringProgram.dll
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\bin\Debug\netcoreapp3.1\GenericArrayAndStringProgram.pdb
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\obj\Debug\netcoreapp3.1\GenericArrayAndStringProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\obj\Debug\netcoreapp3.1\GenericArrayAndStringProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\obj\Debug\netcoreapp3.1\GenericArrayAndStringProgram.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\obj\Debug\netcoreapp3.1\GenericArrayAndStringProgram.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\obj\Debug\netcoreapp3.1\GenericArrayAndStringProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\obj\Debug\netcoreapp3.1\GenericArrayAndStringProgram.dll
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\obj\Debug\netcoreapp3.1\GenericArrayAndStringProgram.pdb
+C:\Users\Admin\source\repos\GenericArrayAndStringProgram\obj\Debug\netcoreapp3.1\GenericArrayAndStringProgram.genruntimeconfig.cache
