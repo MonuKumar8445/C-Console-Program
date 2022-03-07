@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Myprogramstarprint\bin\Debug\net6.0\Myprogramstarprint.exe
+C:\Users\Admin\source\repos\Myprogramstarprint\bin\Debug\net6.0\Myprogramstarprint.deps.json
+C:\Users\Admin\source\repos\Myprogramstarprint\bin\Debug\net6.0\Myprogramstarprint.runtimeconfig.json
+C:\Users\Admin\source\repos\Myprogramstarprint\bin\Debug\net6.0\Myprogramstarprint.dll
+C:\Users\Admin\source\repos\Myprogramstarprint\bin\Debug\net6.0\ref\Myprogramstarprint.dll
+C:\Users\Admin\source\repos\Myprogramstarprint\bin\Debug\net6.0\Myprogramstarprint.pdb
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\Myprogramstarprint.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\Myprogramstarprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\Myprogramstarprint.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\Myprogramstarprint.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\Myprogramstarprint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\Myprogramstarprint.dll
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\ref\Myprogramstarprint.dll
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\Myprogramstarprint.pdb
+C:\Users\Admin\source\repos\Myprogramstarprint\obj\Debug\net6.0\Myprogramstarprint.genruntimeconfig.cache
